@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "집생활연구소",
+  "brand": "HOME LIFE LAB",
+  "worker": "homelifelab",
+  "url": "https://homelifelab.webnote-lab.workers.dev",
+  "email": "jordan20002@naver.com",
+  "description": "주거 기록, 이사 준비, 생활비 정리를 위한 한국어 가이드. 집을 옮기고 생활을 꾸리는 데 필요한 확인 목록을 정리합니다.",
+  "categories": [
+    {
+      "slug": "housing",
+      "name": "주거 기록",
+      "description": "공간과 생활 조건을 나란히 기록하기"
+    },
+    {
+      "slug": "moving",
+      "name": "이사 준비",
+      "description": "짐 정리부터 이사 당일까지 할 일을 나누기"
+    },
+    {
+      "slug": "living-costs",
+      "name": "생활비 정리",
+      "description": "반복 지출과 비정기 지출을 구분해 살펴보기"
+    }
+  ]
+}
