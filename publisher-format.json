@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "site": "homelifelab",
+  "sha256": {
+    "build.py": "e6390fcb7a7a0a1255a5d3d66af396aafa8190fea4333fbf98e732562d748b29",
+    "content_support.py": "14e0f83eca00820a086224fd625f2d65ee37351f69934af7638b6c103e1026db"
+  }
+}
