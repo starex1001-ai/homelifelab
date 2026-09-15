@@ -172,5 +172,27 @@
     "tags": [
       "발행 테스트"
     ]
+  },
+  {
+    "id": "sheet-homelife-test",
+    "slug": "homelife-test",
+    "category": "housing",
+    "status": "published",
+    "title": "집생활연구소 자동발행 테스트",
+    "description": "집생활연구소 자동발행 테스트 글입니다. Google Sheets에서 입력한 글이 Python 자동화와 GitHub를 거쳐 Cloudflare에 정상적으로 발행되는지 확인하기 위한 테스트 콘텐츠입니다. 자동발행 테스트 이 글이 정상적으로 공개되면 집생활연구소의 자동발행 연결이 정상적으로 ",
+    "date": "2026-09-16",
+    "updated": "2026-09-16",
+    "minutes": 1,
+    "label": "가이드",
+    "intro": "",
+    "sections": [],
+    "body_html": "<p><strong>집생활연구소 자동발행 테스트 글입니다.</strong></p><p>Google Sheets에서 입력한 글이 Python 자동화와 GitHub를 거쳐 Cloudflare에 정상적으로 발행되는지 확인하기 위한 테스트 콘텐츠입니다.</p><h2>자동발행 테스트</h2><p>이 글이 정상적으로 공개되면 집생활연구소의 자동발행 연결이 정상적으로 작동하는 것으로 확인할 수 있습니다.</p>",
+    "tags": [
+      "주거",
+      "이사",
+      "월세",
+      "생활비",
+      "자동발행"
+    ]
   }
 ]
